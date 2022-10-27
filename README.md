@@ -15,10 +15,10 @@ My analysis will be focused on the following:
 6. Do song duration differ by genre
 7. What are the top 10 Popular Genre in the dataset
 
-#### From the analysis carried out i was able to gain this insights 
+### From the analysis carried out i was able to gain this insights 
 
-1. The ten least popular songs on the platform are: 
-  - You and the night and the music by Libby Holman & Her Orchestra
-  - Roses of Picardy by Paul Specht
-  - I'm the last of the red hot mamas by Sophie Tucker
-  - vv
+#### The ten least popular songs on the platform are: 
+- You and the night and the music by Libby Holman & Her Orchestra
+- Roses of Picardy by Paul Specht
+- I'm the last of the red hot mamas by Sophie Tucker
+- vv
