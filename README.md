@@ -21,4 +21,4 @@ My analysis will be focused on the following:
     i. You and the night and the music by Libby Holman & Her Orchestra
     ii. Roses of Picardy by Paul Specht
     iii. I'm the last of the red hot mamas by Sophie Tucker
-    iv. 
+    iv. vv
