@@ -40,3 +40,11 @@ My analysis will be focused on the following:
 ##### Corellation of the Variables in the dataset
 Most of the variables in the dataset were loosely correlated, the highest positive corellation was observed between energy and loudness with a corr of 0.8 followed by danceability and valance at 0.5, the highest negative corellation was observed between energy and acousticness with a corr of -0.7 followed by loudness and acousticness at -0.5
 ![corr](images/corr.png)
+
+##### The amount of songs produced per has has increased over time with the highest peak observed in 2020.
+![no_of_songs](images/no_of_songs.png)
+
+##### Song duration has dropped over time, songs have gotten shorter as shown in the graph below
+![song_dur_bar](images/song_duration1.png)
+![song_dur_line](images/song_duration2.png)
+
