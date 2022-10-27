@@ -18,7 +18,7 @@ My analysis will be focused on the following:
 #### From the analysis carried out i was able to gain this insights 
 
 1. The ten least popular songs on the platform are: 
-- You and the night and the music by Libby Holman & Her Orchestra
-- Roses of Picardy by Paul Specht
-- I'm the last of the red hot mamas by Sophie Tucker
-- vv
+  - You and the night and the music by Libby Holman & Her Orchestra
+  - Roses of Picardy by Paul Specht
+  - I'm the last of the red hot mamas by Sophie Tucker
+  - vv
