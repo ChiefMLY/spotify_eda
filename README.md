@@ -1,9 +1,11 @@
 # spotify_eda
 ## Exploratory Data Analysis of Spotify Data 
-### Datasets from: https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db & https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets
+Datasets from: 
+- https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db 
+- https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets
 
 ### Brief Introduction
-#### Spotify is one of the largest streaming platforms in the world, with over 456 million monthly active users and 195 million paying subscribers as of September 20222. The company was founded on 23 April 2006 by Daniel Ek and Martin Lorentzon.
+Spotify is one of the largest streaming platforms in the world, with over 456 million monthly active users and 195 million paying subscribers as of September 20222. The company was founded on 23 April 2006 by Daniel Ek and Martin Lorentzon.
 
 ### The aim of this project is to analyse the spotify data gotten from the links shared above
 My analysis will be focused on the following:
@@ -17,8 +19,26 @@ My analysis will be focused on the following:
 
 ### From the analysis carried out i was able to gain this insights 
 
-#### The ten least popular songs on the platform are: 
+#### The ten least popular songs on in the dataset are: 
 - You and the night and the music by Libby Holman & Her Orchestra
 - Roses of Picardy by Paul Specht
 - I'm the last of the red hot mamas by Sophie Tucker
-- vv
+- Snakes hips by The Georgians
+- The man I love by Sophie Tucker and Miff Mole
+- I'll Have Vanilla by Eddie Cantor
+- Little Curly Hair In a High Chair by Jerry Joyce, Eddie Cantor
+- The Grass Grows Greener by Paul Specht
+- Savannah by The Georgians
+- Barney google by The Georgians
+
+#### The ten most popular songs in the dataset are:
+- Peaches (feat. Daniel Caesar & Giveon) by Justin Bieber, Daniel Caesar and Giveon
+- Drivers license by Olivia Rodrigo
+- Save your tears by The Weekend
+- Telepatia by Kali Uchis
+- Blindig Lights by The Weekend
+- Leave the Door open by Bruno Mars, Anderson. Paak and Silk Sonic
+- Streets by Doja Cat
+- Heartbreak Anniversary by Giveon
+
+##### Corellation of the Dataset Columns
